@@ -1,0 +1,25 @@
+html, body {
+    color: #fff;
+    background-color: #2E3440;
+}
+
+a, a:hover {
+    color: #fff;
+}
+
+.header {
+    background-color: #3B4252;
+}
+
+.btn-back {
+    background-color: #4C566A;
+}
+
+.btn-back:hover {
+    background-color: #242D32;
+}
+
+.footer {
+	background-color: #3B4252; /* Same as your header color */
+    color: rgba(255, 255, 255, 0.20); /* Updated text color */
+}
